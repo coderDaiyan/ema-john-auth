@@ -46,7 +46,3 @@ button {
 .main-btn:hover {
   background: #d6ac42;
 }
-.cart-container {
-  position: absolute;
-  left: 990px;
-}
